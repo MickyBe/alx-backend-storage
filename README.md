@@ -1,2 +1,2 @@
-# alx-backend-storage
-ALX projects on storage
+# ALX Backend Storage
+This repo contains projects for learning backend development data storage concepts.
